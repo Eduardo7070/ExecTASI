@@ -9,6 +9,7 @@ Requer Node.js 20 ou superior. No terminal, dentro da pasta do projeto:
 ```sh
 npm install
 npm start
+npm run dev
 ```
 
 Endereço: `http://localhost:3000`. Para encerrar: Ctrl+C.
