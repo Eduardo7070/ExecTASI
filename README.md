@@ -98,7 +98,7 @@ O roteiro das cinco capturas obrigatórias está em `evidencias/README.md`.
 
 ## Uso de IA
 
-Foi utilizada IA como apoio à implementação, aos testes e à documentação.
+Foi utilizada IA como apoio aos testes e à documentação.
 Foi adotada a sugestão de uma tabela de transições para deixar explícitas as
 mudanças de status permitidas. O armazenamento foi separado em Repository para
 isolar a persistência das regras de negócio.
